@@ -1,4 +1,4 @@
-## Hello! Get-To-Know ME
+## Hello! Get-To-Know Me
 
 This page is containing some facts about myself which might help you to get to know me more.
 
