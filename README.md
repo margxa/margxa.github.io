@@ -1,32 +1,13 @@
-## Welcome to GitHub Pages
+## Hello! Get-To-Know ME
 
-You can use the [editor on GitHub](https://github.com/margxa/margxa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page is containing some facts about myself which might help you to get to know me more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will be putting some fun informations about myself such as my hobbies, favorite things/ stuffs, some of my goals, etc.
 
-### Markdown
+### Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+My name is Magar Dew Cruz. Some might find my name strange because of its uniqueness but for short you can just call me _Magar or Mags_, that's what people around me says my name.
+I am currently 15 years old, and I am a grade 9 student from Ateneo de Naga University. I transferred to ADNU when I was grade 7. I really did enjoy my first year on Ateneo but unfortunately, CoVid-19 got worse. But even though we're in a different mode of learning right now, it gave me lots of opportunities to improve some of my skills. Like making a website :)) I am also a Gemini who doesn't have a talent but is willing to be adventurous so I can have one.
 
 ### Jekyll Themes
 
