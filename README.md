@@ -35,6 +35,7 @@ This is The 1975. I like them specifically for their calming and wholseome songs
 This is Up Dharma Down, this is an OPM band. I do believe that even though there's a lot of people who knows them already, I still think they're underrated, in my opinion. Because I don't know a lot of people who talk about them and their songs and if you're probably visiting my website, you should listen to them. I really appreciate their songs and I think Filipino's should hype their songs more even though they already disbanded. And we should pay more attention to locals because they deserve more recognition. Some of my favorites from them are Tadhana, Luna, Anino, Indak, and Unti-Unti.
 
 **These artists/ bands are also some of my favorites.**
+
 Taylor Swift
 
 The Beatles
@@ -46,6 +47,7 @@ Lana del Rey
 IV Of Spades
 
 **Books**
+
 The Invisibile Life of Addie Larue 
 
 Little Women
@@ -57,12 +59,19 @@ Song of Achilles
 The Silent Patient
 
 ### FUN FACTS
+
 I make journals.
+
 I write short stories.
+
 I love cofees.
+
 I live near the sea.
+
 I love vintage things.
+
 I want to be a doctor.
 
 ### Support or Contact
+
 Message me through G-Mail (mdewcruz@gmail.com)
