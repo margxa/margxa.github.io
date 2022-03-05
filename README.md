@@ -74,4 +74,4 @@ I want to be a doctor.
 
 ### Support or Contact
 
-Message me through G-Mail (mdewcruz@gmail.com)
+Message me through G-Mail mdewcruz2006@gmail.com
