@@ -1,8 +1,6 @@
 ## Hello! Get-To-Know Me
 
-This page is containing some facts about myself which might help you to get to know me more.
-
-I will be putting some fun informations about myself such as my hobbies, favorite things/ stuffs, some of my goals, etc.
+This page is containing some facts about myself which might help you to get to know me more. I will be putting some fun informations about myself such as my hobbies, favorite things/ stuffs, some of my goals, etc.
 
 ### ME
 ![image](https://user-images.githubusercontent.com/99865261/156871958-a1c7d060-eaf1-4fb1-8e38-e1ed5eb044f4.png)
