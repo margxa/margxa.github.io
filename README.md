@@ -5,12 +5,20 @@ This page is containing some facts about myself which might help you to get to k
 ### ME
 ![image](https://user-images.githubusercontent.com/99865261/156871958-a1c7d060-eaf1-4fb1-8e38-e1ed5eb044f4.png)
 
-My name is Magar Dew Cruz. Some might find my name strange because of its uniqueness but for short you can just call me _Magar or Mags_, that's what people around me says my name.
+    My name is Magar Dew Cruz. Some might find my name strange because of its uniqueness but for short you can just call me _Magar or Mags_, that's what people around me says my name.
 I am currently 15 years old, and I am a grade 9 student from Ateneo de Naga University. I transferred to ADNU when I was grade 7. I really did enjoy my first year on Ateneo but unfortunately, CoVid-19 got worse. But even though we're in a different mode of learning right now, it gave me lots of opportunities to improve some of my skills. Like making a website :)) I am also a Gemini who doesn't have a talent but is willing to be adventurous so I can have one.
 
-### Jekyll Themes
+### HOBBIES
+Reading
+Listening to music
+Making daily vlogs
+Watching Netflix or movies
+Trying different foods
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/margxa/margxa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### MY FAVORITES
+These are my favorite music artists or bands and my favorite music from each artist
+![image](https://user-images.githubusercontent.com/99865261/156872233-bbe4679a-4560-4f2e-831b-e57def772f5d.png)
+I love Nirvana because their songs are just giving me the coming of age vibe. Their songs are loud but it's helpful every time I feel so frustrated in the noises around me so their music is a great replacement for the annoying noises. Some of my favorite songs from them are Smells Like Teen Spirit, Come As You are and In Bloom.
 
 ### Support or Contact
 
