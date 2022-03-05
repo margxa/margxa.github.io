@@ -5,7 +5,7 @@ This page is containing some facts about myself which might help you to get to k
 ### ME
 ![image](https://user-images.githubusercontent.com/99865261/156871958-a1c7d060-eaf1-4fb1-8e38-e1ed5eb044f4.png)
 
-This page is containing some facts about myself which might help you to get to know me more. I will be putting some fun informations about myself such as my hobbies, favorite things/ stuffs, some of my goals, etc. My name is Magar Dew Cruz. Some might find my name strange because of its uniqueness but for short you can just call me _Magar or Mags_, that's what people around me says my name. I am currently 15 years old, and I am a grade 9 student from Ateneo de Naga University. I transferred to ADNU when I was grade 7. I really did enjoy my first year on Ateneo but unfortunately, CoVid-19 got worse. But even though we're in a different mode of learning right now, it gave me lots of opportunities to improve some of my skills. Like making a website :)) I am also a Gemini who doesn't have a talent but is willing to be adventurous so I can have one.
+ My name is Magar Dew Cruz. Some might find my name strange because of its uniqueness but for short you can just call me _Magar or Mags_, that's what people around me says my name. I am currently 15 years old, and I am a grade 9 student from Ateneo de Naga University. I transferred to ADNU when I was grade 7. I really did enjoy my first year on Ateneo but unfortunately, CoVid-19 got worse. But even though we're in a different mode of learning right now, it gave me lots of opportunities to improve some of my skills. Like making a website :)) I am also a Gemini who doesn't have a talent but is willing to be adventurous so I can have one.
 
 
 ### HOBBIES
