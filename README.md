@@ -9,9 +9,13 @@ This page is containing some facts about myself which might help you to get to k
 
 ### HOBBIES
 Reading
+
 Listening to music
+
 Making daily vlogs
+
 Watching Netflix or movies
+
 Trying different foods
 
 ### MY FAVORITES
