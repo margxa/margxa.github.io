@@ -56,8 +56,13 @@ Song of Achilles
 
 The Silent Patient
 
-
+### FUN FACTS
+I make journals.
+I write short stories.
+I love cofees.
+I live near the sea.
+I love vintage things.
+I want to be a doctor.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Message me through G-Mail (mdewcruz@gmail.com)
