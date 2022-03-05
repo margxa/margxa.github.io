@@ -15,7 +15,8 @@ Watching Netflix or movies
 Trying different foods
 
 ### MY FAVORITES
-These are my favorite music artists or bands and my favorite music from each artist
+**These are my favorite music artists or bands and my favorite music from each artist**
+
 ![image](https://user-images.githubusercontent.com/99865261/156872487-e0a91f66-253c-4d2b-83ce-c4fd1fd3c1c3.png)
 I love Nirvana because their songs are just giving me the coming of age vibe. Their songs are loud but it's helpful every time I feel so frustrated in the noises around me so their music is a great replacement for the annoying noises. Some of my favorite songs from them are Smells Like Teen Spirit, Come As You are and In Bloom.
 
