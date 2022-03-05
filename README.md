@@ -20,7 +20,7 @@ Watching Netflix or movies
 Trying different foods
 
 ### MY FAVORITES
-**These are my favorite music artists or bands and my favorite music from each artist**
+**Music Artists/Band**
 
 ![image](https://user-images.githubusercontent.com/99865261/156872487-e0a91f66-253c-4d2b-83ce-c4fd1fd3c1c3.png)
 
@@ -33,6 +33,30 @@ This is The 1975. I like them specifically for their calming and wholseome songs
 ![image](https://user-images.githubusercontent.com/99865261/156872849-dbbb7726-7bda-4fcf-bdda-590475f015ce.png)
 
 This is Up Dharma Down, this is an OPM band. I do believe that even though there's a lot of people who knows them already, I still think they're underrated, in my opinion. Because I don't know a lot of people who talk about them and their songs and if you're probably visiting my website, you should listen to them. I really appreciate their songs and I think Filipino's should hype their songs more even though they already disbanded. And we should pay more attention to locals because they deserve more recognition. Some of my favorites from them are Tadhana, Luna, Anino, Indak, and Unti-Unti.
+
+**These artists/ bands are also some of my favorites.**
+Taylor Swift
+
+The Beatles
+
+TV Girl
+
+Lana del Rey
+
+IV Of Spades
+
+**Books**
+The Invisibile Life of Addie Larue 
+
+Little Women
+
+Pride & Prejudice 
+
+Song of Achilles
+
+The Silent Patient
+
+
 
 ### Support or Contact
 
